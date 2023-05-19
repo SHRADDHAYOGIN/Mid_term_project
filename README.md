@@ -35,9 +35,15 @@ Enjoy!
 <br>
 <br>
 
----
+# 1.Project Goals
+ 1.The primary objective of this project is to develop a predictive model  that can estimate arrival delays of commercial flights.
+ 
+ 2.The model should provide airlines with timely and accurate information to help them make informed decisions.
+ 
+ 3.By achieving accurate predictions, the project aims to improve customer satisfaction, optimize airline operations, and ultimately impact the profitability of airline agencies.
 
-## 1. Process
+
+## 2. Process
 <br>
 <br>
 <br>
@@ -64,9 +70,34 @@ Enjoy!
   
 
 ## 2. Results
+• Grid Search for finding best hyper-parameters.
+
+Best alpha for Ridge regression: 10.0
+
+Best alpha for Lasso regression: 0.1
+
+Best mean squared error for Ridge regression: 2331.9914636271724
+
+Best mean squared error for Lasso regression: 2332.42623882772
+
+• Use Ridge and Lasso Model.
+
+• Use three Ensemble Techniques :
+1) Random Forest Regressor
+2) Gradient 
+Boosting 
+3) XGBoost 
+
+• In which Random Forest Regressor gives minimum mean squared error
+
+• Use linear regression model and find summary in which we observed
+1) R2 of model is 0.1031937
+2) Saturday has largest positive coefficient.
+3.Monday has smallest negative coefficient.
 
 
-## 3. Future Work
+
+
 
 
 
