@@ -11,6 +11,7 @@ Credits to the following contributors:
 
 <br>
 <br>
+
 ### Data
 <br>
 This model was trained using data colelcted from air travel in the United States between 2018 and 2019, it contains flights, fuel, and passenger data. 
@@ -35,17 +36,16 @@ Enjoy!
 <br>
 <br>
 
-# 1.Project Goals
+## 1.Project Goals
+<br>
+<br>
+
  1.The primary objective of this project is to develop a predictive model  that can estimate arrival delays of commercial flights.
- 
  2.The model should provide airlines with timely and accurate information to help them make informed decisions.
- 
  3.By achieving accurate predictions, the project aims to improve customer satisfaction, optimize airline operations, and ultimately impact the profitability of airline agencies.
 
 
 ## 2. Process
-<br>
-<br>
 <br>
 <br>
 
@@ -70,6 +70,9 @@ Enjoy!
   
 
 ## 2. Results
+<br>
+<br>
+
 • Grid Search for finding best hyper-parameters.
 
 Best alpha for Ridge regression: 10.0
@@ -79,6 +82,8 @@ Best alpha for Lasso regression: 0.1
 Best mean squared error for Ridge regression: 2331.9914636271724
 
 Best mean squared error for Lasso regression: 2332.42623882772
+<br>
+<br>
 
 • Use Ridge and Lasso Model.
 
@@ -87,12 +92,14 @@ Best mean squared error for Lasso regression: 2332.42623882772
 2) Gradient 
 Boosting 
 3) XGBoost 
+<br>
 
 • In which Random Forest Regressor gives minimum mean squared error
   
   Random Forest MSE: 1909.1760774350003
 
   With R2 of 0.10319376533141655
+<br>
 
 • Use linear regression model and find summary in which we observed
 1) R2 of model is 0.1031937
