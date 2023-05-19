@@ -89,6 +89,10 @@ Boosting
 3) XGBoost 
 
 • In which Random Forest Regressor gives minimum mean squared error
+  
+  Random Forest MSE: 1909.1760774350003
+
+  With R2 of 0.10319376533141655
 
 • Use linear regression model and find summary in which we observed
 1) R2 of model is 0.1031937
