@@ -73,6 +73,14 @@ Enjoy!
 <br>
 <br>
 
+![Image](Images/EDA1.png)
+![Image](Images/EDA2.png)
+![Image](Images/EDA3.png)
+
+<br>
+<br>
+<br>
+
 • Grid Search for finding best hyper-parameters.
 
 Best alpha for Ridge regression: 10.0
