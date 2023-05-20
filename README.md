@@ -40,9 +40,9 @@ Enjoy!
 <br>
 <br>
 
- 1.The primary objective of this project is to develop a predictive model  that can estimate arrival delays of commercial flights.
- 2.The model should provide airlines with timely and accurate information to help them make informed decisions.
- 3.By achieving accurate predictions, the project aims to improve customer satisfaction, optimize airline operations, and ultimately impact the profitability of airline agencies.
+ 1.The primary objective of this project is to develop a predictive model  that can estimate arrival delays of commercial flights.\
+ 2.The model should provide airlines with timely and accurate information to help them make informed decisions.\
+ 3.By achieving accurate predictions, the project aims to improve customer satisfaction, optimize airline operations, and ultimately impact the profitability of airline agencies.\
 
 
 ## 2. Process
